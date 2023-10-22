@@ -1,4 +1,4 @@
-![logo](https://github.com/Kshitijr39077/Kshitij-Profile/blob/main/user%20(2).gif)
+![logo](https://raw.githubusercontent.com/Kshitijr39077/kshitijr39077/main/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png.webp)
 
 <h1 align="center">Hi 👋, I'm Kshitij Rajput</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
